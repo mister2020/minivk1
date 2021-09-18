@@ -19,7 +19,8 @@
     "@vkontakte/vk-bridge": "^2.4.8",
     "@vkontakte/vkjs": "^0.22.1",
     "@vkontakte/vkui": "^4.15.0",
-    "vercel": "^23.1.2"
+    "vercel": "^23.1.2",
+    "vercel-sapper": "^0.44.0"
   },
   "browserslist": {
     "production": [
