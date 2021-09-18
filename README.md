@@ -5,5 +5,7 @@
 
 Не адаптировано!
 
+DEMO: https://mister2020.github.io/minivk1/
+
 Using:
 npm start
