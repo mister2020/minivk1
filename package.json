@@ -6,9 +6,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-    "scripts": {
-      "start": "npm start"
-    },
   "devDependencies": {
     "cross-env": "^7.0.3",
     "react-hot-loader": "^4.13.0",
