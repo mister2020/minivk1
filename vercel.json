@@ -1,5 +1,5 @@
 {
     "name": "minivk1",
     "builds": [{ "src": "src/index.js", "use": "@vercel/node" }],
-    "version": 1
+    "version": 2
   }
