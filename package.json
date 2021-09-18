@@ -1,7 +1,8 @@
 {
-  "homepage": "http://mister2020.github.io/minivk1/public",
+  "homepage": "http://mister2020.github.io/minivk1/",
   "name": "mini-app",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "keywords": [],
